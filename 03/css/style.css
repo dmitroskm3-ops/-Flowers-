@@ -1,0 +1,596 @@
+body{
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    width:85% ;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+    height:1030px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url(../img/Mask\ Group.jpg);
+    background-size: 100% 100%;
+}
+.head_i{
+    width: 15%;
+    height: 67px;
+        display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.head_i1{
+    width: 15%;
+    height: 67px;
+    background: url(../img/Group\ 84.png);
+    background-size:100% 100% ;
+}
+.s{
+        text-decoration: none;
+    color: white;
+    line-height: 67px;
+}
+.B{
+    text-align: center;
+    font-size: 120px;
+}
+.a{
+    text-decoration: none;
+    color: white;
+}
+.head_i2{
+    width: 50%;
+    height: 67px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.head{
+    width: 80%;
+    height: 73px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2%;
+
+}
+.bHead{
+    width: 50%;
+    color: white;
+    height: 600px;
+    margin-top: 10%;
+}
+.bheadb{
+    background: none;
+    border: 1px solid white;
+    width: 30%;
+    height: 50px;
+    margin-top: 10%;
+    margin-left: 35%;
+        color: white;
+        font-size: 24px;
+}
+main{
+    width: 100%;
+    height: 4375px;
+    background: #3B181E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.section1{
+    width: 75%;
+
+}
+.sec_box{
+    width: 100%;
+    height: 1100px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex-wrap: wrap;
+    color: white;
+}
+.w{
+    font-size: 24px;
+}
+.vs{
+    width: 100%;
+    height: 150px;
+}
+.vX{
+    width: 100%;
+    height: 370px;
+}
+.vXL{
+    width: 100%;
+    height: 600px;
+}
+.vv{
+    background: none;
+    border: 1px solid white;
+    width: 40%;
+    height: 50px;
+    margin-top: 8%;
+    color:white ;
+    font-size: 24px;
+}
+.v{
+    width: 100%;
+    height: 200px;
+}
+.div1{
+    width: 23.0263157895%;
+    height: 365px;
+}
+.div2{
+    width: 23.0263157895%;
+    height: 387px;
+}
+.div3{
+    width: 23.0263157895%;
+    height: 752px;
+}
+.div4{
+    width: 23.0263157895%;
+    height: 288px;
+}
+.div5{
+    width: 23.0263157895%;
+    height: 512px;
+}
+.div6{
+    width: 23.0263157895%;
+    height: 288px;
+}
+.div7{
+    width: 23.0263157895% ;
+    height: 288px;
+}
+.div8{
+    width: 23.0263157895% ;
+    height: 512px;
+}
+.h11{
+    width: 100%;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
+.section2{
+    width: 61%;
+height: 432px;
+margin:50px auto;
+display: flex;
+justify-content: space-between;
+}
+.vvv{
+    font-size: 50px;
+}
+.aa{
+    font-size: 26px;
+    width: 80%;
+    height: 50px;
+    background: none;
+    color: white;
+border: 1px solid white;
+margin-top: 10%;
+}
+.s21{
+    width: 33.4106382979%;
+    height: 432px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 42px;
+    color: white;
+}
+.s22{
+    width:  60.893617021%;
+    height: 432px;
+    background: url(../img/tree_slice_charger_plates_7a077125-fbba-4414-8584-e5c40fc5717b.jpg);
+    background-size: 100% 100%;
+}
+.section3{
+width: 90%;
+height: 804px;
+margin:100px auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+color: white;
+}
+.ws{
+        font-size: 24px;
+        margin-top: 35px;
+}
+.ssb{
+    width: 100%;
+    margin-top: 7.5%;
+    margin-left: 10%;
+}
+.zz{
+    width: 20%;
+    background: none;
+    height: 50px;
+    font-size: 24px;
+    border: 1px solid white;
+    margin-top: 35px;
+    color: white;
+}
+.z{
+    font-size: 50px;
+}
+.s23{
+    width: 40%;
+    height: 671px;
+}
+.s24{
+    width:  55%;
+    height: 804px;
+    background: url(../img/370ebdb54f31c9a20ecd9f95d2eaf09526159ac2.jpg);
+    background-size: 100% 100%;
+}
+.section4{
+    width: 61%;
+    height: 832px;
+}
+.h12{
+    width: 100%;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.sec_box2{
+    width: 100%;
+    height:700px ;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 25px;
+}
+.s5{
+    width: 29%;
+    height: 570px;
+    border-radius:10px;
+    background: #281014;
+    color: white;
+}
+.s55{
+    width: 29%;
+    height: 570px;
+    border-radius:10px;
+    background: #281014;
+    color: white;
+}
+.s4{
+    width: 36%;
+    height: 695px;
+    border-radius:10px;
+    background: #281014;
+    color: white;
+}
+.section5{
+width:61%;
+height:auto;
+margin:50px auto;
+}
+.sec_box5{
+    width:100%;
+height:470px;
+display:flex;
+justify-content:space-between;
+flex-wrap:wrap;
+margin-top:50px;
+align-content:20px;
+}
+.ss1{
+    width: 31.462585034%;
+    height: 122px;
+    background: url(../img/Group\ 58.jpg);
+    background-size:100% 100%;
+}   
+.ss1s{
+    width: 31.462585034%;
+    height: 122px;
+    background: url(../img/Group\ 59.jpg);
+    background-size:100% 100%;
+}
+.ss12{
+        width: 31.462585034%;
+    height: 122px;
+    background: url(../img/Group\ 60.jpg);
+    background-size:100% 100%;
+}
+.ss2{
+    width:48.5544217687% ;
+    height: 190px;
+    background: url(../img/Group\ 61.jpg);
+    background-size:100% 100%;
+}
+.ss232{
+        width:48.5544217687% ;
+    height: 190px;
+    background: url(../img/Group\ 62.jpg);
+    background-size:100% 100%;
+}
+.ss3{
+    width: 22.8936170213%;
+    height:90px ;
+    background: url(../img/Group\ 63.jpg);
+    background-size:100% 100%;
+}
+.ss34{
+    width: 22.8936170213%;
+    height:90px ;
+    background: url(../img/Group\ 64.jpg);
+    background-size:100% 100%;
+}
+.ss343{
+    width: 22.8936170213%;
+    height:90px ;
+    background: url(../img/Group\ 65.jpg);
+    background-size:100% 100%;
+}
+.ss344{
+    width: 22.8936170213%;
+    height:90px ;
+    background: url(../img/Group\ 66.jpg);
+    background-size:100% 100%;
+}
+.h13{
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+footer{
+    width: 50%;
+    height: 100px;
+}
+.m{
+    height: 59.885986328125px;
+    width: 80%;
+    margin-left: 30px;
+}
+.mm{
+    width: 100%;
+    height: 219px;
+
+}
+.ws{
+        font-size: 24px;
+            margin-top: 35px;
+}
+.l{
+    width: 30%;
+    height: 50px;
+    background: none;
+    border: 1px solid white;
+    font-size: 24px;
+    margin-top: 35px;
+    margin-left: 125px;
+    color: white;
+}
+.ls{
+    width: 40%;
+    height: 50px;
+    background: none;
+    border: 1px solid white;
+    color: white;
+    font-size: 24px;
+    margin-top: 35px;
+    margin-left: 90px;
+}
+.sb{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.c{
+    color: white;
+    text-decoration: none;
+}
+.icons{
+    margin-left: 350px;
+    margin-top: 2%;
+}
+
+/* ============================================
+   МОБІЛЬНА ВЕРСІЯ (екрани до 768px)
+   Усі блоки йдуть один під одним
+   ============================================ */
+img{ max-width:100%; }
+
+@media (max-width: 768px){
+    .box{ width:100%; }
+
+    /* ---------- Шапка ---------- */
+    header{
+        height:auto;
+        min-height:100vh;
+        padding:16px 16px 50px;
+        background-size:cover;
+        background-position:center;
+    }
+    .head{
+        width:100%;
+        height:auto;
+        flex-direction:column;
+        gap:14px;
+        margin-top:0;
+    }
+    .head_i1{ width:130px; height:67px; }
+    .head_i2{
+        width:100%;
+        height:auto;
+        flex-wrap:wrap;
+        justify-content:center;
+        gap:8px 18px;
+        font-size:20px;
+    }
+    .head_i{ width:auto; height:auto; }
+    .s{ line-height:normal; font-size:22px; }
+    .bHead{
+        width:100%;
+        height:auto;
+        margin-top:80px;
+    }
+    .B{ font-size:48px; line-height:1.05; }
+    .bheadb{
+        display:block;
+        width:75%;
+        margin:40px auto 0;
+    }
+
+    /* ---------- Основа ---------- */
+    main{ height:auto; padding-bottom:30px; }
+
+    /* ---------- Каталог послуг ---------- */
+    .section1{ width:90%; }
+    .h11{ height:auto; margin:30px 0 20px; font-size:32px; }
+    .sec_box{
+        height:auto;
+        flex-direction:column;
+        flex-wrap:nowrap;
+        gap:30px;
+    }
+    .div1,.div2,.div3,.div4,
+    .div5,.div6,.div7,.div8{
+        width:100%;
+        height:auto;
+    }
+    .v,.vs,.vX,.vXL{
+        width:100%;
+        height:240px;
+        object-fit:cover;
+        display:block;
+    }
+    .w{ font-size:22px; margin-top:8px; }
+    .vv{ width:60%; margin-top:14px; }
+
+    /* ---------- Акційні пропозиції ---------- */
+    .section2{
+        width:90%;
+        height:auto;
+        flex-direction:column;
+        gap:24px;
+        margin:50px auto;
+    }
+    .s21{ width:100%; height:auto; gap:16px; }
+    .vvv{ font-size:34px; }
+    .aa{ width:100%; margin-top:0; }
+    .s22{
+        width:100%;
+        height:260px;
+        background-size:cover;
+        background-position:center;
+    }
+
+    /* ---------- Композиції ---------- */
+    .section3{
+        width:90%;
+        height:auto;
+        flex-direction:column;
+        align-items:stretch;
+        gap:24px;
+        margin:50px auto;
+    }
+    .s24{
+        width:100%;
+        height:320px;
+        background-size:cover;
+        background-position:center;
+    }
+    .s23{ width:100%; height:auto; }
+    .z{ font-size:34px; }
+    .ws{ margin-top:20px; }
+    .zz{ width:60%; }
+    .ssb{
+        margin:30px 0 0;
+        display:grid;
+        grid-template-columns:repeat(3,1fr);
+        gap:10px;
+    }
+    .ssb img{ width:100%; height:110px; object-fit:cover; }
+    .ssb .n{ grid-column:1 / -1; height:220px; }
+
+    /* ---------- Подарункові картки ---------- */
+    .section4{ width:90%; height:auto; margin-top:30px; }
+    .h12{ height:auto; font-size:34px; margin-bottom:20px; }
+    .sec_box2{
+        height:auto;
+        flex-direction:column;
+        flex-wrap:nowrap;
+        align-items:stretch;
+        gap:24px;
+    }
+    .s5,.s55,.s4{
+        width:100%;
+        height:auto;
+        padding-bottom:30px;
+        text-align:center;
+    }
+    .mm{ height:220px; object-fit:cover; display:block; }
+    .s5 .ws,.s55 .ws,.s4 .ws{ padding:0 16px; }
+    .m{
+        display:block;
+        width:80%;
+        height:auto;
+        margin:20px auto 0;
+    }
+    .l,.ls{
+        display:block;
+        width:60%;
+        margin:25px auto 0;
+    }
+
+    /* ---------- Постачальники ---------- */
+    .section5{ width:90%; height:auto; margin:40px auto; }
+    .h13{ font-size:32px; }
+    .sec_box5{
+        height:auto;
+        gap:14px 4%;
+        margin-top:30px;
+        align-content:flex-start;
+    }
+    .ss1,.ss1s,.ss12,
+    .ss3,.ss34,.ss343,.ss344{
+        width:48%;
+        height:90px;
+    }
+    .ss2,.ss232{
+        width:100%;
+        height:150px;
+    }
+    .ss1,.ss1s,.ss12,.ss2,.ss232,
+    .ss3,.ss34,.ss343,.ss344{
+        background-size:contain;
+        background-repeat:no-repeat;
+        background-position:center;
+    }
+
+    /* ---------- Футер ---------- */
+    footer{ width:90%; height:auto; padding:20px 0; }
+    .sb{
+        height:auto;
+        flex-direction:column;
+        gap:14px;
+        font-size:22px;
+    }
+    .icons{
+        display:block;
+        margin:24px auto 0;
+        max-width:80%;
+    }
+}
